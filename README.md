@@ -34,9 +34,9 @@ The proposed solution involves the following steps:
 6. Repeat the process.
 
 ## Experiments
-- **Number of epochs:** 
-- **Number of reassignments:** 
-- **Choosing the number of clusters**
+- Number of epochs
+- Number of reassignments
+- Choosing the number of clusters
 
 ## Analysis
 - Initial accuracy of pre-trained AlexNet was low; fine-tuned for CIFAR10.
